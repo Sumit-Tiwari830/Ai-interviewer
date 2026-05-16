@@ -5,6 +5,7 @@ pydantic
 # Agentic State Machine Core
 langgraph
 langchain-core
+langchain_community
 
 # Hugging Face Integrations
 langchain-huggingface
