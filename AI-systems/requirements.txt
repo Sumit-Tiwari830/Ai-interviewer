@@ -1,0 +1,20 @@
+# Web Framework and Server
+fastapi
+uvicorn
+pydantic
+# Agentic State Machine Core
+langgraph
+langchain-core
+
+# Hugging Face Integrations
+langchain-huggingface
+huggingface_hub
+# Use the line below instead if running models locally on your hardware
+# langchain-huggingface[full]==1.2.2 
+
+# Vector DB & Document RAG
+chromadb
+pypdf
+
+# System Utilities
+python-dotenv
